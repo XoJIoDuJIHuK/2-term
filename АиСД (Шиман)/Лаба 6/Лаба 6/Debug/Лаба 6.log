@@ -1,0 +1,39 @@
+﻿Сборка начата 29.04.2022 18:05:36.
+Уровень детализации журнала: Normal.     1>Проект "D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\Лаба 6.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Лаба 6.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt funcs.cpp main.cpp
+         funcs.cpp
+     1>D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\funcs.h(4,1): warning C4005: INT_MAX: изменение макроопределения
+       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\limits.h(36): message : см. предыдущее определение "INT_MAX"
+     1>D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\funcs.cpp(6,20): warning C4018: <: несоответствие типов со знаком и без знака
+         main.cpp
+     1>D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\funcs.h(4,1): warning C4005: INT_MAX: изменение макроопределения
+       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\limits.h(36): message : см. предыдущее определение "INT_MAX"
+     1>D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\main.cpp(36,10): warning C4804: <: небезопасное использование типа "bool" в операции
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Debug\Лаба 6.exe" /INCREMENTAL /ILK:"Debug\Лаба 6.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Debug\Лаба 6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Debug\Лаба 6.lib" /MACHINE:X86 Debug\main.obj
+         Debug\funcs.obj
+         Лаба 6.vcxproj -> D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Debug\Лаба 6.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Лаба 6.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Лаба 6.tlog\Лаба 6.lastbuildstate".
+     1>Сборка проекта "D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\Лаба 6.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\Лаба 6.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\funcs.h(4,1): warning C4005: INT_MAX: изменение макроопределения
+         D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\funcs.cpp(6,20): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\funcs.h(4,1): warning C4005: INT_MAX: изменение макроопределения
+         D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\_УЧЁБА_\Лабораторные работы\АиСД (Шиман)\Лаба 6\Лаба 6\main.cpp(36,10): warning C4804: <: небезопасное использование типа "bool" в операции
+
+    Предупреждений: 5
+    Ошибок: 0
+
+Прошло времени 00:00:04.87
