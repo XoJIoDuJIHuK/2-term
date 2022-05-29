@@ -1,0 +1,7 @@
+﻿  SE_Lab02.cpp
+D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\Лаба 2.1\SE_Lab02\SE_Lab02.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Func_mul.cpp
+  Func_sum.cpp
+  Func_sub.cpp
+  Создание кода...
+  SE_Lab02.vcxproj -> D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\Лаба 2.1\Debug\SE_Lab02.exe

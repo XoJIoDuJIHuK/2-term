@@ -1,0 +1,24 @@
+int _fastcall cfst(int a, int b, int c, int d)
+    12: {
+push        ebp  
+mov         ebp,esp  
+sub         esp,0D8h  
+push        ebx  
+push        esi  
+push        edi  
+push        ecx  
+lea         edi,[ebp-18h]  
+mov         ecx,6  
+mov         eax,0CCCCCCCCh  
+rep stos    dword ptr es:[edi]  
+pop         ecx  
+mov         dword ptr [b],edx  
+mov         dword ptr [a],ecx  
+mov         ecx,offset _E203C369_Call@cpp (094F07Ch)  
+call        @__CheckForDebuggerJustMyCode@4 (0941393h)  
+    13: 	return a + b + c + d;
+mov         eax,dword ptr [a]  
+add         eax,dword ptr [b]  
+add         eax,dword ptr [c]  
+add         eax,dword ptr [d]  
+    14: }

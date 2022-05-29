@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "844684e6-5512-4053-9bc1-1dec5aa34b01": {
+      "ProjectGuid": "844684e6-5512-4053-9bc1-1dec5aa34b01",
+      "DisplayName": "Лаба 8",
+      "ColorIndex": 0
+    },
+    "5ba188b3-a527-4427-935c-ac64c19f0d04": {
+      "ProjectGuid": "5ba188b3-a527-4427-935c-ac64c19f0d04",
+      "DisplayName": "dop2",
+      "ColorIndex": 1
+    },
+    "40ef8912-bc3a-4f6c-b862-23cb92d504a3": {
+      "ProjectGuid": "40ef8912-bc3a-4f6c-b862-23cb92d504a3",
+      "DisplayName": "dop3",
+      "ColorIndex": 2
+    },
+    "b4456d15-afc8-4f96-bed4-da735ee4f5b1": {
+      "ProjectGuid": "b4456d15-afc8-4f96-bed4-da735ee4f5b1",
+      "DisplayName": "dop1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

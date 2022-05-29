@@ -1,0 +1,40 @@
+﻿Сборка начата 16.04.2022 9:29:11.
+Уровень детализации журнала: Normal.     1>Проект "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\SE_Lab10.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\x64\Debug\".
+         Создание каталога "x64\Debug\SE_Lab10.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\SE_Lab10.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt SE_Lab10.cpp Varparm.cpp
+         SE_Lab10.cpp
+     1>D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\SE_Lab10.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         Varparm.cpp
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\x64\Debug\SE_Lab10.exe" /INCREMENTAL /ILK:"x64\Debug\SE_Lab10.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\x64\Debug\SE_Lab10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\x64\Debug\SE_Lab10.lib" /MACHINE:X64 x64\Debug\SE_Lab10.obj
+         x64\Debug\Varparm.obj
+     1>SE_Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl Varparm::svarparm(short,...)" (?svarparm@Varparm@@YAHFZZ) в функции main.
+     1>SE_Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl Varparm::fvarparm(float,...)" (?fvarparm@Varparm@@YAHMZZ) в функции main.
+     1>SE_Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl Varparm::dvarparm(double,...)" (?dvarparm@Varparm@@YAHNZZ) в функции main.
+     1>D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\x64\Debug\SE_Lab10.exe : fatal error LNK1120: неразрешенных внешних элементов: 3
+     1>Сборка проекта "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\SE_Lab10.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\SE_Lab10.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\SE_Lab10.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+
+       "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\SE_Lab10.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Link) -> 
+         SE_Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl Varparm::svarparm(short,...)" (?svarparm@Varparm@@YAHFZZ) в функции main.
+         SE_Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl Varparm::fvarparm(float,...)" (?fvarparm@Varparm@@YAHMZZ) в функции main.
+         SE_Lab10.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl Varparm::dvarparm(double,...)" (?dvarparm@Varparm@@YAHNZZ) в функции main.
+         D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\x64\Debug\SE_Lab10.exe : fatal error LNK1120: неразрешенных внешних элементов: 3
+
+    Предупреждений: 1
+    Ошибок: 4
+
+Прошло времени 00:00:01.28

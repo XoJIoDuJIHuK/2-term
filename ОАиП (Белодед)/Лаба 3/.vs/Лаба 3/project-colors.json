@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19b56bea-c9c3-43f9-be43-b257e564c08b": {
+      "ProjectGuid": "19b56bea-c9c3-43f9-be43-b257e564c08b",
+      "DisplayName": "Лаба 3",
+      "ColorIndex": 0
+    },
+    "17fda323-e395-4941-bff6-34bb76aa068f": {
+      "ProjectGuid": "17fda323-e395-4941-bff6-34bb76aa068f",
+      "DisplayName": "Лаба 3.2",
+      "ColorIndex": 1
+    },
+    "43576e0d-34f6-4596-bd85-8a665a527a67": {
+      "ProjectGuid": "43576e0d-34f6-4596-bd85-8a665a527a67",
+      "DisplayName": "Лаба 3.3",
+      "ColorIndex": 2
+    },
+    "0163372a-b314-4fc7-aa64-968e80760b0d": {
+      "ProjectGuid": "0163372a-b314-4fc7-aa64-968e80760b0d",
+      "DisplayName": "Лаба 3.4",
+      "ColorIndex": 3
+    },
+    "38cb32ed-9de9-4acf-a04e-b6c7e87efe1e": {
+      "ProjectGuid": "38cb32ed-9de9-4acf-a04e-b6c7e87efe1e",
+      "DisplayName": "Лаба 3.5",
+      "ColorIndex": 4
+    },
+    "5ac0e186-4f37-4e9f-8b9e-fa85cbb4d762": {
+      "ProjectGuid": "5ac0e186-4f37-4e9f-8b9e-fa85cbb4d762",
+      "DisplayName": "12 вариант",
+      "ColorIndex": 5
+    },
+    "e9e8928c-42d3-4f01-9edf-5ae9b96f0094": {
+      "ProjectGuid": "e9e8928c-42d3-4f01-9edf-5ae9b96f0094",
+      "DisplayName": "6 вариант",
+      "ColorIndex": 6
+    },
+    "7b1c8aff-9c3f-4e86-b7b7-ff00930a763e": {
+      "ProjectGuid": "7b1c8aff-9c3f-4e86-b7b7-ff00930a763e",
+      "DisplayName": "5 вариант",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "70c44a4a-8c90-486d-869a-37e0ed5ada14": {
+      "ProjectGuid": "70c44a4a-8c90-486d-869a-37e0ed5ada14",
+      "DisplayName": "5 вариант",
+      "ColorIndex": 8
+    },
+    "0268c49d-eb75-4551-948e-c247917a81e9": {
+      "ProjectGuid": "0268c49d-eb75-4551-948e-c247917a81e9",
+      "DisplayName": "13 вариант",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

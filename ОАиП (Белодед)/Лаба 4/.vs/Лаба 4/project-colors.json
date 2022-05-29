@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb6b185d-0977-4045-8194-c9cd4644f39e": {
+      "ProjectGuid": "cb6b185d-0977-4045-8194-c9cd4644f39e",
+      "DisplayName": "Лаба 4",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "5ce13a47-2718-4fbe-9433-7698de5168fe": {
+      "ProjectGuid": "5ce13a47-2718-4fbe-9433-7698de5168fe",
+      "DisplayName": "12",
+      "ColorIndex": 1
+    },
+    "ac3e0797-ab70-4d9a-a8aa-2eb174fce2bf": {
+      "ProjectGuid": "ac3e0797-ab70-4d9a-a8aa-2eb174fce2bf",
+      "DisplayName": "6",
+      "ColorIndex": 2
+    },
+    "fecf9cdd-f2c5-43cc-9785-0533cd78abe5": {
+      "ProjectGuid": "fecf9cdd-f2c5-43cc-9785-0533cd78abe5",
+      "DisplayName": "7",
+      "ColorIndex": 3
+    },
+    "dbf05811-76c7-451b-beaf-60a27a5d273c": {
+      "ProjectGuid": "dbf05811-76c7-451b-beaf-60a27a5d273c",
+      "DisplayName": "dop1",
+      "ColorIndex": 4
+    },
+    "7d669c46-9b91-4a12-b343-beb694045a03": {
+      "ProjectGuid": "7d669c46-9b91-4a12-b343-beb694045a03",
+      "DisplayName": "dop2",
+      "ColorIndex": 5
+    },
+    "0b5ac5de-af35-43bd-ac67-70df44123193": {
+      "ProjectGuid": "0b5ac5de-af35-43bd-ac67-70df44123193",
+      "DisplayName": "dop3",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

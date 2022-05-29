@@ -1,0 +1,31 @@
+﻿Сборка начата 26.04.2022 18:05:56.
+Уровень детализации журнала: Normal.     1>Проект "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\SE_Lab10.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SE_Lab10.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt SE_Lab10.cpp Varparm.cpp
+         SE_Lab10.cpp
+     1>D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\SE_Lab10.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         Varparm.cpp
+     1>D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\Varparm.cpp(41,10): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\Debug\SE_Lab10.exe" /INCREMENTAL /ILK:"Debug\SE_Lab10.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\Debug\SE_Lab10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\Debug\SE_Lab10.lib" /MACHINE:X86 Debug\SE_Lab10.obj
+         Debug\Varparm.obj
+         SE_Lab10.vcxproj -> D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\Debug\SE_Lab10.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab10.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab10.tlog\SE_Lab10.lastbuildstate".
+     1>Сборка проекта "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\SE_Lab10.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\SE_Lab10.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\SE_Lab10.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab10\SE_Lab10\Varparm.cpp(41,10): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:02.49

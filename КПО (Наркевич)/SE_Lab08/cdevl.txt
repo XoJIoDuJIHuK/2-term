@@ -1,0 +1,19 @@
+int _cdecl cdevl(int a, int b, int c)
+     2: {
+push        ebp  
+mov         ebp,esp  
+sub         esp,0C0h  
+push        ebx  
+push        esi  
+push        edi  
+mov         edi,ebp  
+xor         ecx,ecx  
+mov         eax,0CCCCCCCCh  
+rep stos    dword ptr es:[edi]  
+mov         ecx,offset _E203C369_Call@cpp (094F07Ch)  
+call        @__CheckForDebuggerJustMyCode@4 (0941393h)  
+     3: 	return a + b + c;
+mov         eax,dword ptr [a]  
+add         eax,dword ptr [b]  
+add         eax,dword ptr [c]  
+     4: }

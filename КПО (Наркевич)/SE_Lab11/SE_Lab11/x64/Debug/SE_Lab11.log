@@ -1,0 +1,19 @@
+﻿Сборка начата 10.05.2022 11:37:32.
+Уровень детализации журнала: Normal.     1>Проект "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab11\SE_Lab11\SE_Lab11.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\SE_Lab11.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         SE_Lab11.vcxproj -> D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab11\x64\Debug\SE_Lab11.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\SE_Lab11.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\SE_Lab11.tlog\SE_Lab11.lastbuildstate".
+     1>Сборка проекта "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab11\SE_Lab11\SE_Lab11.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.44

@@ -1,0 +1,22 @@
+﻿Сборка начата 13.04.2022 10:39:04.
+Уровень детализации журнала: Normal.     1>Проект "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\LP_Lab07L\LP_Lab07L.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\LP_Lab07L.tlog\LP_Lab07L.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "Debug\LP_Lab07L.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\Debug\LP_Lab07L.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Dictionary.cpp
+         Dictionary.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\Lib.exe /OUT:"D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\Debug\LP_Lab07L.lib" /NOLOGO /MACHINE:X86 Debug\Dictionary.obj
+         LP_Lab07L.vcxproj -> D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\Debug\LP_Lab07L.lib
+       FinalizeBuildStatus:
+         Файл "Debug\LP_Lab07L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LP_Lab07L.tlog\LP_Lab07L.lastbuildstate".
+     1>Сборка проекта "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\LP_Lab07L\LP_Lab07L.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.20

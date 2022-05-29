@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8dd1d32-755f-4a58-adaa-2baa841297db": {
+      "ProjectGuid": "a8dd1d32-755f-4a58-adaa-2baa841297db",
+      "DisplayName": "Лаба 9",
+      "ColorIndex": 0
+    },
+    "f7981f4f-2147-4377-a17a-12b86269b86d": {
+      "ProjectGuid": "f7981f4f-2147-4377-a17a-12b86269b86d",
+      "DisplayName": "dop2",
+      "ColorIndex": 1
+    },
+    "d56086a2-d60e-4473-afc3-218d2665d77b": {
+      "ProjectGuid": "d56086a2-d60e-4473-afc3-218d2665d77b",
+      "DisplayName": "dop3",
+      "ColorIndex": 2
+    },
+    "3cb53834-ecc5-4c05-b746-2c576a67899a": {
+      "ProjectGuid": "3cb53834-ecc5-4c05-b746-2c576a67899a",
+      "DisplayName": "dop1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

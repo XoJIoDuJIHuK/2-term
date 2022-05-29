@@ -1,0 +1,34 @@
+﻿Сборка начата 13.04.2022 13:08:46.
+Уровень детализации журнала: Normal.     1>Проект "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\SE_Lab07\SE_Lab07.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\SE_Lab07.tlog\SE_Lab07.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "Debug\SE_Lab07.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt main.cpp
+         main.cpp
+     1>D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\SE_Lab07\main.cpp(85,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\Debug\SE_Lab07.exe" /INCREMENTAL /ILK:"Debug\SE_Lab07.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\Debug\SE_Lab07.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\Debug\SE_Lab07.lib" /MACHINE:X86 D:\\_УЧЁБА_\\LP_Lab07L.lib Debug\main.obj
+     1>LP_Lab07L.lib(Dictionary.obj) : warning LNK4204: в "" отсутствуют отладочные данные для ссылок на модуль; компоновка объекта выполняется как при отсутствии отладочных данных
+         SE_Lab07.vcxproj -> D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\Debug\SE_Lab07.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab07.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab07.tlog\SE_Lab07.lastbuildstate".
+     1>Сборка проекта "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\SE_Lab07\SE_Lab07.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\SE_Lab07\SE_Lab07.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\SE_Lab07\main.cpp(85,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+
+       "D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\SE_Lab07\SE_Lab07\SE_Lab07.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект Link) -> 
+         LP_Lab07L.lib(Dictionary.obj) : warning LNK4204: в "" отсутствуют отладочные данные для ссылок на модуль; компоновка объекта выполняется как при отсутствии отладочных данных
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:03.11

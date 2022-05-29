@@ -1,0 +1,26 @@
+﻿Сборка начата 23.05.2022 10:29:20.
+Уровень детализации журнала: Normal.     1>Проект "D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\Задачи Белодеду\Задачи Белодеду\Задачи Белодеду.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Задачи Белодеду.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++20 /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Source.cpp
+         Source.cpp
+     1>D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\Задачи Белодеду\Задачи Белодеду\Source.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\Задачи Белодеду\Debug\Задачи Белодеду.exe" /INCREMENTAL /ILK:"Debug\Задачи Белодеду.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\Задачи Белодеду\Debug\Задачи Белодеду.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\Задачи Белодеду\Debug\Задачи Белодеду.lib" /MACHINE:X86 Debug\Source.obj
+         Задачи Белодеду.vcxproj -> D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\Задачи Белодеду\Debug\Задачи Белодеду.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Задачи Белодеду.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Задачи Белодеду.tlog\Задачи Белодеду.lastbuildstate".
+     1>Сборка проекта "D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\Задачи Белодеду\Задачи Белодеду\Задачи Белодеду.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\Задачи Белодеду\Задачи Белодеду\Задачи Белодеду.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\Задачи Белодеду\Задачи Белодеду\Source.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.66

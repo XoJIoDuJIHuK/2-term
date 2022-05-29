@@ -1,0 +1,32 @@
+﻿Сборка начата 20.10.2021 12:29:07.
+Уровень детализации журнала: Normal.     1>Проект "D:\_УЧЁБА_\Wunderwaffe\Шифрование\Шифрование\Шифрование.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Шифрование.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+     1>InitializeBuildStatus:
+         Создание "Debug\Запись в файл.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt "Запись в файл.cpp"
+         Запись в файл.cpp
+     1>D:\_УЧЁБА_\Wunderwaffe\Шифрование\Шифрование\Запись в файл.cpp(30,27): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\_УЧЁБА_\Wunderwaffe\Шифрование\Debug\Запись в файл.exe" /INCREMENTAL /ILK:"Debug\Запись в файл.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\_УЧЁБА_\Wunderwaffe\Шифрование\Debug\Запись в файл.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\_УЧЁБА_\Wunderwaffe\Шифрование\Debug\Запись в файл.lib" /MACHINE:X86 "Debug\Запись в файл.obj"
+         Шифрование.vcxproj -> D:\_УЧЁБА_\Wunderwaffe\Шифрование\Debug\Запись в файл.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Запись в файл.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Запись в файл.tlog\Запись в файл.lastbuildstate".
+     1>Сборка проекта "D:\_УЧЁБА_\Wunderwaffe\Шифрование\Шифрование\Шифрование.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\_УЧЁБА_\Wunderwaffe\Шифрование\Шифрование\Шифрование.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект PrepareForBuild) -> 
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Шифрование.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+
+
+       "D:\_УЧЁБА_\Wunderwaffe\Шифрование\Шифрование\Шифрование.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\_УЧЁБА_\Wunderwaffe\Шифрование\Шифрование\Запись в файл.cpp(30,27): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:00.87

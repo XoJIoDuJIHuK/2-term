@@ -1,0 +1,32 @@
+﻿Сборка начата 10.05.2022 15:31:08.
+Уровень детализации журнала: Normal.     1>Проект "D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\10052022\10052022.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\10052022.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Source.cpp
+         Source.cpp
+     1>D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\10052022\Source.cpp(109,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\10052022\Source.cpp(116,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\10052022\Source.cpp(131,23): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\10052022\Source.cpp(113): warning C4715: Tree::Evalbintree: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\Debug\10052022.exe" /INCREMENTAL /ILK:"Debug\10052022.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\Debug\10052022.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\Debug\10052022.lib" /MACHINE:X86 Debug\Source.obj
+         10052022.vcxproj -> D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\Debug\10052022.exe
+       FinalizeBuildStatus:
+         Файл "Debug\10052022.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\10052022.tlog\10052022.lastbuildstate".
+     1>Сборка проекта "D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\10052022\10052022.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\10052022\10052022.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\10052022\Source.cpp(109,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+         D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\10052022\Source.cpp(116,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\10052022\Source.cpp(131,23): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\_УЧЁБА_\Лабораторные работы\Wunderwaffe\10052022\10052022\Source.cpp(113): warning C4715: Tree::Evalbintree: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:02.22

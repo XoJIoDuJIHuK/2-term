@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2a604af-d509-4e8c-bbc6-192f2a2bff1f": {
+      "ProjectGuid": "e2a604af-d509-4e8c-bbc6-192f2a2bff1f",
+      "DisplayName": "Лаба 2.1",
+      "ColorIndex": 0
+    },
+    "520c72bc-8b69-45b4-801b-20c2b029cccb": {
+      "ProjectGuid": "520c72bc-8b69-45b4-801b-20c2b029cccb",
+      "DisplayName": "Лаба 2.2",
+      "ColorIndex": 1
+    },
+    "8624de5d-0d8c-4e72-a0af-12e92085c7f9": {
+      "ProjectGuid": "8624de5d-0d8c-4e72-a0af-12e92085c7f9",
+      "DisplayName": "Лаба 2.3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

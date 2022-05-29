@@ -1,0 +1,10 @@
+﻿  SE_Lab02.cpp
+D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\Лаба 2.1\SE_Lab02\SE_Lab02.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Func_mul.cpp
+  Func_sum.cpp
+  Func_sub.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SE_Lab02.vcxproj -> D:\_УЧЁБА_\Лабораторные работы\КПО (Наркевич)\Лаба 2.1\Release\SE_Lab02.exe
