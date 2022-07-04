@@ -1,0 +1,5 @@
+1) how do you think, is HTML a programming language and why the answer is no?
+2) what is the main tag in HTML?
+3) is HTML compiling language?
+4) what version of HTML is the first: 1.0 or 2.0?
+5) what organisation creates standarts of HTML?
